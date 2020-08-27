@@ -1059,8 +1059,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -204.00006, y: 4.999878}
-  m_SizeDelta: {x: 500, y: 500}
+  m_AnchoredPosition: {x: -0.000015258789, y: 0.00000047684}
+  m_SizeDelta: {x: 600, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &689660363
 MonoBehaviour:
@@ -1428,8 +1428,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 28, y: 364}
-  m_SizeDelta: {x: -132.25888, y: -911.956}
+  m_AnchoredPosition: {x: -103.7, y: 314}
+  m_SizeDelta: {x: -395.64432, y: -1011.956}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &892211543
 MonoBehaviour:
@@ -2205,7 +2205,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2049683772005734749, guid: 432f72329dde8a0499f60ebea78a44c7,
+          m_ObjectArgument: {fileID: 1915963709407178344, guid: 1c3e923dd81435f4db20619021e53780,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -2858,7 +2858,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1760b7a694aa6334888c48530728d269, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 984f7b11a984b4c53b92205e86bdacf6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3110,7 +3110,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 2262614076672479838, guid: 61e766209b65ba4458127dcc4ae86ff5,
+          m_ObjectArgument: {fileID: 4669797657619912707, guid: 61e766209b65ba4458127dcc4ae86ff5,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -3315,7 +3315,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 9165865939410418343, guid: 97ed5548feea0d54e84527cab2411198,
+          m_ObjectArgument: {fileID: 7101946487239727755, guid: 2b2167b12c5dc11419bd4aafd5581dc6,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0

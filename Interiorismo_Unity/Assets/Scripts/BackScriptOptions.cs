@@ -7,7 +7,6 @@ public class BackScriptOptions : MonoBehaviour
 {
     public void PlayGame () 
     {
-        Debug.Log("Reached sofa scene");
-        SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex - 1);
+        SceneManager.LoadScene (0);
     }
 }

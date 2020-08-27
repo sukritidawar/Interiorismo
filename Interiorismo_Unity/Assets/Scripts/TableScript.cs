@@ -7,7 +7,7 @@ public class TableScript : MonoBehaviour
 {
     public void PlayGame () 
     {
-        Debug.Log("Reached sofa scene");
+        Debug.Log("Reached table scene");
         SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 2);
     }
     

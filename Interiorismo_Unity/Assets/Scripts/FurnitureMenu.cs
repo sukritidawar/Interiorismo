@@ -7,7 +7,7 @@ public class FurnitureMenu : MonoBehaviour
 {
     public void PlayGame () 
     {
-        Debug.Log("Reached sofa scene");
+        Debug.Log("Reached chair scene");
         SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 1);
     }
     

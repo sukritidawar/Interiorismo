@@ -7,7 +7,7 @@ public class TileScript : MonoBehaviour
 {
     public void PlayGame () 
     {
-        Debug.Log("Reached sofa scene");
-        SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 7);
+        Debug.Log("Reached tile scene");
+        SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 8);
     }
 }

@@ -375,7 +375,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1842643181}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.4084966
+  m_Size: 0.40849653
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1059,8 +1059,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -204.00006, y: 4.999878}
-  m_SizeDelta: {x: 500, y: 500}
+  m_AnchoredPosition: {x: -0.000015259, y: 0.0000019073}
+  m_SizeDelta: {x: 600, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &689660363
 MonoBehaviour:
@@ -1428,8 +1428,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 28, y: 364}
-  m_SizeDelta: {x: -132.25888, y: -911.956}
+  m_AnchoredPosition: {x: -105.6, y: 310}
+  m_SizeDelta: {x: -391.3996, y: -1011.956}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &892211543
 MonoBehaviour:
@@ -2205,7 +2205,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8495436320558080339, guid: 631633197bda71e43bc339e6de60f959,
+          m_ObjectArgument: {fileID: 5410037107011069426, guid: 631633197bda71e43bc339e6de60f959,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -2831,7 +2831,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 7413616818520694498, guid: 3a7081afe43f52f42acd81ce15e05beb,
+          m_ObjectArgument: {fileID: 7837307093527480519, guid: 3a7081afe43f52f42acd81ce15e05beb,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -3110,7 +3110,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 4356503108663930870, guid: e66db67a98b4d5247bf050307b5bf62a,
+          m_ObjectArgument: {fileID: 6193996795333521283, guid: e66db67a98b4d5247bf050307b5bf62a,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
@@ -3315,7 +3315,7 @@ MonoBehaviour:
         m_MethodName: PlaceObject
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 9165865939410418343, guid: 97ed5548feea0d54e84527cab2411198,
+          m_ObjectArgument: {fileID: 6801796341274151509, guid: 97ed5548feea0d54e84527cab2411198,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0

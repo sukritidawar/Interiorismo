@@ -7,7 +7,7 @@ public class LampsScript : MonoBehaviour
 {
     public void PlayGame () 
     {
-        Debug.Log("Reached sofa scene");
+        Debug.Log("Reached Lamp scene");
         SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex + 5);
     }
     

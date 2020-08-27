@@ -5,12 +5,12 @@ using UnityEngine.UI;
 
 public class PlaneMatManager : MonoBehaviour
 {
-    public Material PlaneMat;
-    public Button[] planetextbuttons;
+    public Material planeMat;
+    public Button[] planeTexButtons;
     // Start is called before the first frame update
     void Awake()
     {
-        foreach(var b in planetextbuttons)
+        foreach(var b in planeTexButtons)
         {
             Texture tex = b.transform.Find("Mask/RawImage").GetComponent<RawImage>().texture;
             b.onClick.AddListener(()=>OnClickButton(tex));
@@ -25,6 +25,6 @@ public class PlaneMatManager : MonoBehaviour
 
     void OnClickButton(Texture tex)
     {
-        PlaneMat.mainTexture = tex;
+        planeMat.mainTexture = tex;
     }
 }
